@@ -6,7 +6,7 @@ pygame.font.init()
 dis_width = 600
 dis_height = 600
 display = pygame.display.set_mode((dis_width, dis_height))
-little = pygame.display.set_caption('snake game','tiger')
+little = pygame.display.set_caption('snake game','snake')
 x1 = dis_width / 2
 x2 = dis_height/2
 
